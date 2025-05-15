@@ -1,0 +1,27 @@
+📊 Monthly Sales Dashboard – Power BI Project
+This Power BI dashboard provides an in-depth analysis of monthly sales performance across multiple years (2013–2016). The project uses dynamic visuals to track and compare sales and costs trends over time.
+
+🔧 Features:
+Line Chart: Compares monthly sales and costs across four years with clear trend lines.
+
+Bar Charts: Breaks down the sum of sales and costs by month and year for granular analysis.
+
+Year Selector (Slicer): Allows users to filter the visuals by specific year dynamically.
+
+Custom Visual Styling: Consistent color theme and layout for a clean and user-friendly experience.
+
+Interactive Design: Users can explore insights quickly using bookmarks and slicers.
+
+🧠 Insights Gained:
+Identified peak and low-performing months across different years.
+
+Compared sales vs. costs trends to detect profitability periods.
+
+Enabled historical comparison to support better forecasting and decision-making.
+
+🛠️ Tools Used:
+Microsoft Power BI
+
+DAX (Data Analysis Expressions)
+
+Power Query
